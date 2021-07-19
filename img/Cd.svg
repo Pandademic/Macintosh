@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg206"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="Cd.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title955">Cd</title>
+  <sodipodi:namedview
+     id="namedview208"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.56573902"
+     inkscape:cx="460.45967"
+     inkscape:cy="661.96601"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs203" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:#c8beb7;fill-rule:evenodd;stroke:#ffff00;stroke-width:0.264583"
+       id="path446"
+       cx="114.50831"
+       cy="169.00894"
+       rx="46.524937"
+       ry="47.854221" />
+    <ellipse
+       style="fill:#ff7f2a;fill-rule:evenodd;stroke:#ffff00;stroke-width:0.264583"
+       id="path562"
+       cx="117.16688"
+       cy="170.90793"
+       rx="26.015985"
+       ry="32.282608" />
+    <ellipse
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#ffff00;stroke-width:0.264583"
+       id="path586"
+       cx="119.44565"
+       cy="172.9968"
+       rx="6.646419"
+       ry="9.3049879" />
+    <ellipse
+       style="fill:#ffd5d5;fill-rule:evenodd;stroke:#ffff00;stroke-width:0.264583"
+       id="path769"
+       cx="119.70676"
+       cy="173.5309"
+       rx="2.6823051"
+       ry="2.4568014" />
+    <circle
+       style="fill:#241c1c;fill-rule:evenodd;stroke:#ffff00;stroke-width:0.264583"
+       id="path951"
+       cx="119.63416"
+       cy="173.53777"
+       r="0.45803595" />
+  </g>
+  <metadata
+     id="metadata953">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Cd</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

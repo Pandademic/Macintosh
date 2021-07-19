@@ -1,0 +1,68 @@
+<html>
+    <head>
+        <title>The Macintosh desktop</title>
+        <link rel="stylesheet"href="style.css">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Itim&display=swap" rel="stylesheet">
+        <!--Bootstrap-->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"> </script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+        <link href="https://fonts.googleapis.com/css?family=Cinzel+Decorative&display=swap" rel="stylesheet"> 
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link href="https://fonts.googleapis.com/css?family=Amatic+SC:regular,700" rel="stylesheet" />
+        <link href="https://fonts.googleapis.com/css?family=Raleway:regular,700" rel="stylesheet" />
+    </head>
+    <body>
+        
+    <nav class="nav">
+        <div class="navbar-header">
+            
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand"href="#"></a>
+            </div>
+        <div class="collapse navbar-collapse" id="mynavbar">
+            <ul class="nav navbar-nav">
+              <li><img src="https://img.icons8.com/material/24/000000/mac-os.png"/></li>
+              <li><label style="color:#161b22;margin-top:5px;">Atharv G</label></li>
+            </ul>
+            </div>
+        </nav>
+        <div id="NotepadApp"class="App">
+            <span class="sp"><h4 class="Title "onclick="Close()">Unknown-Notebook &times;</h4></span>
+             <button onclick="copy()">Copy</button>
+             <button onclick="clear()">Clear</button>          
+             <textarea id="notepad"></textarea>
+        </div>
+        <nav class="nav2">
+            <div class="navbar-header">
+                
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand"href="#"></a>
+                </div>
+            <div class="collapse navbar-collapse" id="mynavbar">
+                <ul class="nav navbar-nav">
+                <img src="img/Github.png"class="img-app img-circle"onclick="Github()">
+                <img src="https://img.icons8.com/fluent/50/000000/chrome.png" onclick="Google()">
+                <img src="https://img.icons8.com/fluent/50/000000/maps.png"onclick="Maps()"/>
+                <img src="https://img.icons8.com/doodle/48/000000/apple-mail.png"onclick="Mail()"/>
+                <img src="https://img.icons8.com/emoji/48/000000/notebook-emoji.png"class="img-app img-circle"onclick="Note()">
+                </ul>
+                </div>
+            </nav>
+            <script src="dist/desktop.js"></script>
+    </body>
+</html>
