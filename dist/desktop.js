@@ -1,22 +1,10 @@
 var OpenApp;
-function Github() {
-    window.location = "https://github.com";
-}
 function Note() {
     document.getElementById("NotepadApp").style.display = "inline-block";
     OpenApp = "NotepadApp";
 }
 function Close() {
     document.getElementById(OpenApp).style.display = "none";
-}
-function Google() {
-    window.location = "https://google.com";
-}
-function Maps() {
-    window.location = "http://maps.google.com";
-}
-function Mail() {
-    window.location = "https://gmail.com";
 }
 function copy() {
     /* Get the text field */
